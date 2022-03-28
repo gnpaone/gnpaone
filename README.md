@@ -36,7 +36,7 @@ I'm currently pursuing BEng in Electronics and Communication Engineering at 🎓
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/gnpaone/gnpaone/master/gif.gif" width="500"/>
 
 <details>
-  <summary>Contact me at</summary>
+  <summary>📞 Contact me at</summary>
 
 [![GitHub Badge](https://img.shields.io/badge/-@gnpaone-%23181717?style=flat&logo=github)](https://github.com/gnpaone) [![Gmail Badge](https://img.shields.io/badge/-gnpaone@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gnpaone@gmail.com)](mailto:gnpaone@gmail.com) [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=gnpaone.github.io&url=http%3A%2F%2Fgnpaone.github.io%2F)](https://gnpaone.github.io) [![Twitter Badge](https://img.shields.io/badge/-@gnpaone-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gnpaone)](https://twitter.com/gnpaone) [![Linkedin Badge](https://img.shields.io/badge/-@gnpaone-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnpaone/)](https://www.linkedin.com/in/gnpaone/)
 </details>
