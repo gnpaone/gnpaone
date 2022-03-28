@@ -69,7 +69,7 @@ Photo & Video Editor:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gnpaone)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![a steak](https://github-readme-streak-stats.herokuapp.com/?user=gnpaone)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnpaone&theme=gruvbox_duo)
 
   <p>
   	<img src="https://img.shields.io/github/followers/gnpaone" />
