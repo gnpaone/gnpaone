@@ -36,7 +36,7 @@ I'm currently pursuing BEng in Electronics and Communication Engineering at 🎓
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/gnpaone/gnpaone/master/gif.gif" width="500"/>
 
 <details>
-  <summary><b>📞 Contact me at</b></summary>
+  <summary><i>📞 Contact me at</i></summary>
 
 [![GitHub Badge](https://img.shields.io/badge/-@gnpaone-%23181717?style=flat&logo=github)](https://github.com/gnpaone) [![Gmail Badge](https://img.shields.io/badge/-gnpaone@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gnpaone@gmail.com)](mailto:gnpaone@gmail.com) [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=gnpaone.github.io&url=http%3A%2F%2Fgnpaone.github.io%2F)](https://gnpaone.github.io) [![Twitter Badge](https://img.shields.io/badge/-@gnpaone-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gnpaone)](https://twitter.com/gnpaone) [![Linkedin Badge](https://img.shields.io/badge/-@gnpaone-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnpaone/)](https://www.linkedin.com/in/gnpaone/)
 </details>
@@ -59,7 +59,7 @@ Photo & Video Editor:
 <code><a href="https://www.adobe.com/products/aftereffects.html"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"></a></code>
 
 <details>
-  <summary><b>📈 My GitHub Stats</b></summary>
+  <summary><i>📈 My GitHub Stats</i></summary>
 
 [![Naveen's github stats](https://github.com/gnpaone/my-github-stats/blob/master/generated/overview.svg)](https://github.com/gnpaone/gnpaone) [![Naveen's language stats](https://github.com/gnpaone/my-github-stats/blob/master/generated/languages.svg)](https://github.com/gnpaone/gnpaone)
 
