@@ -47,7 +47,7 @@ VFXEngine:
 <code><a href="https://blender.org/"><img height="20" src="https://github.com/gnpaone/gnpaone/blob/main/blender-white.png?raw=true"></a></code>
 
 IDE: 
-<code><img height="20" src="https://raw.githubusercontent.com/gnpaone/gnpaone/main/Python-logo-notext.svg"></code>
+<code><a href="https://www.python.org/"><img height="20" src="https://raw.githubusercontent.com/gnpaone/gnpaone/main/Python-logo-notext.svg"></a></code>
 <code><a href="https://code.visualstudio.com/download"><img height="20" src="https://raw.githubusercontent.com/gnpaone/gnpaone/main/vs-code-responsive-01-1.png"></a></code>
 <code><a href="https://visualstudio.microsoft.com/downloads/"><img height="20" src="https://raw.githubusercontent.com/gnpaone/gnpaone/main/BrandVisualStudioWin2019-3.svg"></a></code>
 <code><a href="https://repl.it"><img height="20" src="https://raw.githubusercontent.com/gnpaone/gnpaone/main/Repl.it_logo.svg"></a></code>
