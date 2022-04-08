@@ -75,13 +75,12 @@ Photo & Video Editor:
   	<img src="https://img.shields.io/github/followers/gnpaone" />
     <img src="https://img.shields.io/github/stars/gnpaone">
     <img src="https://visitor-badge.glitch.me/badge?page_id=gnpaone.gnpaone" />
+    <a href="https://ko-fi.com/gnpaone"><img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B.svg?logo=ko-fi" /></a>
   </p>
 </details>
 
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gnpaone)
 
 <!--
 **kushwanth13/kushwanth13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
