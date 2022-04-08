@@ -78,10 +78,10 @@ Photo & Video Editor:
   </p>
 </details>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gnpaone)
-
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gnpaone)
 
 <!--
 **kushwanth13/kushwanth13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
