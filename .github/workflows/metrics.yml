@@ -43,9 +43,6 @@ jobs:
           plugin_notable_from: user
           plugin_notable_indepth: yes
           plugin_notable_types: commit
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://gnpaone.github.io
           plugin_reactions: yes
           plugin_reactions_display: relative
           plugin_reactions_limit: 200
