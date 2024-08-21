@@ -83,15 +83,7 @@ Other:
 <code><a href="https://www.figma.com"><img height="20" src="https://www.cdnlogo.com/logos/f/43/figma.svg"></a></code>
 
 <details>
-  <summary><b><i>📈 My GitHub Stats</i></b></summary>
-
-[![Naveen's github stats](https://github.com/gnpaone/my-github-stats/blob/master/generated/overview.svg)](https://github.com/gnpaone/gnpaone) [![Naveen's language stats](https://github.com/gnpaone/my-github-stats/blob/master/generated/languages.svg)](https://github.com/gnpaone/gnpaone)
-
-[![GitHub metrics](./github-metrics.svg)](https://github.com/gnpaone/gnpaone)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnpaone&layout=compact&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gnpaone)](https://github.com/ryo-ma/github-profile-trophy)
+  <summary><b><i>📈 My GitHub Stats</i></b></summary><br>
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnpaone&theme=gruvbox_duo)
 
@@ -101,6 +93,13 @@ Other:
     <img src="https://komarev.com/ghpvc/?username=gnpaone&label=Profile%20views&color=d4b3df&logo=Opsgenie&base=5136" />
     <a href="https://ko-fi.com/gnpaone"><img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B.svg?logo=ko-fi" /></a>
   </p>
+
+[![Naveen's github stats](https://github.com/gnpaone/my-github-stats/blob/master/generated/overview.svg)](https://github.com/gnpaone/gnpaone) [![Naveen's language stats](https://github.com/gnpaone/my-github-stats/blob/master/generated/languages.svg)](https://github.com/gnpaone/gnpaone) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnpaone&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gnpaone&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub metrics](./github-metrics.svg)](https://github.com/gnpaone/gnpaone)
+
 </details>
 
 ### and just a funny gif...😛
