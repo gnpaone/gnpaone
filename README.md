@@ -85,7 +85,9 @@ Other:
 <details>
   <summary><b><i>📈 My GitHub Stats</i></b></summary><br>
 
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnpaone&theme=gruvbox_duo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnpaone&theme=onedark&show_icons=true&hide_border=false&layout=donut-vertical&langs_count=10&exclude_repo=Food101-Classification,Potato-quality-classification,Indian-food-classification)
+
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnpaone&theme=onedark) ![Stats](https://github-readme-stats.vercel.app/api?username=gnpaone&theme=onedark&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile)
 
   <p>
   	<img src="https://img.shields.io/github/followers/gnpaone" />
@@ -94,9 +96,7 @@ Other:
     <a href="https://ko-fi.com/gnpaone"><img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B.svg?logo=ko-fi" /></a>
   </p>
 
-[![Naveen's github stats](https://github.com/gnpaone/my-github-stats/blob/master/generated/overview.svg)](https://github.com/gnpaone/gnpaone) [![Naveen's language stats](https://github.com/gnpaone/my-github-stats/blob/master/generated/languages.svg)](https://github.com/gnpaone/gnpaone) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnpaone&layout=compact&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gnpaone&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=gnpaone&title=-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub metrics](./github-metrics.svg)](https://github.com/gnpaone/gnpaone)
 
