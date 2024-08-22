@@ -3,8 +3,6 @@
 
 I graduated with BEngg in Electronics and Communication Engineering at 🎓 [Anna University](https://annauniv.edu). You can find my contacts above, or you could visit my :milky_way: [website](https://gnpaone.github.io).
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-
 - 💻 I can script on:
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-323330?style=flat-square&logo=javascript&logoColor=efd81c" />
@@ -56,7 +54,7 @@ I graduated with BEngg in Electronics and Communication Engineering at 🎓 [Ann
 <details>
   <summary><b><i>📞 Contact me at</i></b></summary>
 
-[![GitHub Badge](https://img.shields.io/badge/-@gnpaone-%23181717?style=flat&logo=github)](https://github.com/gnpaone) [![Gmail Badge](https://img.shields.io/badge/-gnpaone@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gnpaone@gmail.com)](mailto:gnpaone@gmail.com) [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=gnpaone.github.io&logo=About.me&logoColor=white&label=%20&url=https%3A%2F%2Fgnpaone.github.io%2F)](https://gnpaone.github.io) [![Twitter Badge](https://img.shields.io/badge/-@gnpaone-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/gnpaone)](https://x.com/gnpaone) [![Linkedin Badge](https://img.shields.io/badge/-@gnpaone-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnpaone/)](https://www.linkedin.com/in/gnpaone/)
+[![GitHub Badge](https://img.shields.io/badge/-@gnpaone-%23181717?style=flat&logo=github)](https://github.com/gnpaone) [![Gmail Badge](https://img.shields.io/badge/-gnpaone@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gnpaone@gmail.com)](mailto:gnpaone@gmail.com) [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=gnpaone.github.io&logo=About.me&logoColor=white&label=%20&url=https%3A%2F%2Fgnpaone.github.io%2F)](https://gnpaone.github.io) [![X Badge](https://img.shields.io/badge/-@gnpaone-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/gnpaone)](https://x.com/gnpaone) [![Linkedin Badge](https://img.shields.io/badge/-@gnpaone-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnpaone/)](https://www.linkedin.com/in/gnpaone/)
 </details>
 
 - 🔧 My tools are:
