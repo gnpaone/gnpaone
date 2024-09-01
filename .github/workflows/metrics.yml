@@ -17,6 +17,7 @@ jobs:
           # committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
+          commits_authoring: gnpaone, 78990165+gnpaone@users.noreply.github.com
           user: gnpaone
           template: classic
           base: header, activity, community, repositories, metadata
