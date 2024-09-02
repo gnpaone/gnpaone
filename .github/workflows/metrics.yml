@@ -18,6 +18,7 @@ jobs:
 
           # Options
           commits_authoring: gnpaone, 78990165+gnpaone@users.noreply.github.com
+          committer_message: 'Update metrics'
           user: gnpaone
           template: classic
           base: header, activity, community, repositories
