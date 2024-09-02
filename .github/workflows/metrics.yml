@@ -14,7 +14,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          # committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS }}
 
           # Options
           commits_authoring: gnpaone, 78990165+gnpaone@users.noreply.github.com
