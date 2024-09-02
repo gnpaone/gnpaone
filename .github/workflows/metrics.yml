@@ -32,7 +32,7 @@ jobs:
           plugin_discussions_categories: yes
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_charts_type: graph
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_from: 1000
@@ -54,6 +54,5 @@ jobs:
           plugin_skyline_frames: 240
           plugin_skyline_quality: 2
           plugin_skyline_year: current-year
-          plugin_support: yes
           plugin_traffic: yes
           repositories_forks: yes
