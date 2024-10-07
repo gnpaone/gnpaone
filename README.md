@@ -90,7 +90,7 @@ Other:
   <p>
   	<img src="https://img.shields.io/github/followers/gnpaone" />
     <img src="https://img.shields.io/github/stars/gnpaone">
-    <img src="https://komarev.com/ghpvc/?username=gnpaone&label=Profile%20views&color=d4b3df&logo=Opsgenie&base=5136" />
+    <img src="https://komarev.com/ghpvc/?username=gnpaone&label=Profile%20views&color=d4b3df&logo=Opsgenie" />
     <a href="https://ko-fi.com/gnpaone"><img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B.svg?logo=ko-fi" /></a>
   </p>
 
