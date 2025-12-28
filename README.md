@@ -1,7 +1,7 @@
 # Hi 👋 I'm Naveen Prashanth
 #### I love coding and exploring new tech
 
-I graduated with BEngg in Electronics and Communication Engineering at 🎓 [Anna University](https://annauniv.edu). You can find my contacts above, or you could visit my :milky_way: [website](https://gnpaone.github.io).
+I graduated with BEngg in ECE at 🎓📘 [Anna University](https://annauniv.edu), currently pursuing MTech in CSE at 🎓📚 [IIIT Gwalior](http://iiitm.ac.in/). You can find my contacts above, or you could visit my :milky_way: [website](https://gnpaone.github.io).
 
 - 💻 I can script on:
 <p>
